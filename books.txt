@@ -1,0 +1,29 @@
+Calculate the Average Publication Year:
+Make a GET request to /books.
+Calculate the average publication year of all the books in the response.
+
+Ensure that the calculated average matches the expected value.
+Find the Earliest Published Book:
+Make a GET request to /books.
+Identify the book with the earliest publication year.
+Ensure that the identified book is indeed the earliest published.
+
+Filter Books by Author:
+Choose a specific author (e.g., "J.K. Rowling").
+Make a GET request to /books with a query parameter for the chosen author (e.g., /books?author=J.K. Rowling).
+Ensure that all books in the response are written by the chosen author.
+
+Newest Book by Name:
+Make a GET request to /books.
+Identify the book with the latest publication year.
+Ensure that the identified book has the expected name.
+
+Sort Books by Publication Year:
+Make a GET request to /books.
+Sort the books in the response by publication year in ascending order.
+Ensure that the books are correctly sorted by publication year.
+
+Calculate Total Number of Books:
+Make a GET request to /books.
+Count the total number of books in the response.
+Ensure that the counted number matches the expected total.

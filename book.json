@@ -1,0 +1,22 @@
+[
+  {"id": 1, "name": "The Great Gatsby", "author": "F. Scott Fitzgerald", "date_published": "1925-04-10"},
+  {"id": 2, "name": "To Kill a Mockingbird", "author": "Harper Lee", "date_published": "1960-07-11"},
+  {"id": 3, "name": "1984", "author": "George Orwell", "date_published": "1949-06-08"},
+  {"id": 4, "name": "The Catcher in the Rye", "author": "J.D. Salinger", "date_published": "1951-07-16"},
+  {"id": 5, "name": "Pride and Prejudice", "author": "Jane Austen", "date_published": "1813-01-28"},
+  {"id": 6, "name": "The Hobbit", "author": "J.R.R. Tolkien", "date_published": "1937-09-21"},
+  {"id": 7, "name": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "date_published": "1997-06-26"},
+  {"id": 8, "name": "The Lord of the Rings", "author": "J.R.R. Tolkien", "date_published": "1954-07-29"},
+  {"id": 9, "name": "The Da Vinci Code", "author": "Dan Brown", "date_published": "2003-03-18"},
+  {"id": 10, "name": "The Alchemist", "author": "Paulo Coelho", "date_published": "1988-09-01"},
+  {"id": 11, "name": "Moby-Dick", "author": "Herman Melville", "date_published": "1851-10-18"},
+  {"id": 12, "name": "The Shining", "author": "Stephen King", "date_published": "1977-01-28"},
+  {"id": 13, "name": "The Road", "author": "Cormac McCarthy", "date_published": "2006-09-26"},
+  {"id": 14, "name": "Brave New World", "author": "Aldous Huxley", "date_published": "1932-02-02"},
+  {"id": 15, "name": "The Grapes of Wrath", "author": "John Steinbeck", "date_published": "1939-04-14"},
+  {"id": 16, "name": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "date_published": "1967-05-30"},
+  {"id": 17, "name": "War and Peace", "author": "Leo Tolstoy", "date_published": "1869-01-01"},
+  {"id": 18, "name": "Dune", "author": "Frank Herbert", "date_published": "1965-08-01"},
+  {"id": 19, "name": "The Odyssey", "author": "Homer", "date_published": "8th century BCE"},
+  {"id": 20, "name": "The Great Expectations", "author": "Charles Dickens", "date_published": "1861-08-01"}
+]
